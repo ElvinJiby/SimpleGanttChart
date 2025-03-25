@@ -1,4 +1,3 @@
-Made as part of an assignment for Software Engineering Project I in CS 1st year<br/>
 Made by Elvin Jiby in VSCode<br/>
 24/03/2023<br/>
 <br/>
